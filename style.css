@@ -1047,17 +1047,7 @@ footer{
    }
 }
 
-@keyframes floatImage{
-    0%{
-        transform: translateY(0);
-    }
-    50%{
-        transform: translateY(-22px);
-    }
-    100%{
-        transform: translateY(0);
-    }
-}
+
 
 
 
